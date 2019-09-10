@@ -12,3 +12,7 @@
 #### How to run tests
 
 1. Run from folder `go test ./...`
+
+#### Open in browser
+
+1. Navigate to `http://localhost:8080/`
